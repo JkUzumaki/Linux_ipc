@@ -1,0 +1,20 @@
+total 36
+-rwxrwxr-x 1 jmariyappan jmariyappan 8976 Dec 12 16:04 a1
+-rwxrwxr-x 1 jmariyappan jmariyappan 9024 Dec 12 16:04 a2
+prwxrwxr-x 1 jmariyappan jmariyappan    0 Dec 12 16:04 fifoM
+prwxrwxr-x 1 jmariyappan jmariyappan    0 Dec 12 16:04 fifoN
+-rw-rw-r-- 1 jmariyappan jmariyappan  608 Dec 12 14:09 IPC_asi1.c
+-rw-rw-r-- 1 jmariyappan jmariyappan  775 Dec 12 16:01 IPC_asi2.c
+-rw-rw-r-- 1 jmariyappan jmariyappan    0 Dec 12 16:40 ls.out
+prw-rw-r-- 1 jmariyappan jmariyappan    0 Dec 12 16:17 pipe
+-rw-rw-r-- 1 jmariyappan jmariyappan    1 Dec 12 16:29 pipe1
+total 40
+-rwxrwxr-x 1 jmariyappan jmariyappan 8976 Dec 12 16:04 a1
+-rwxrwxr-x 1 jmariyappan jmariyappan 9024 Dec 12 16:04 a2
+prwxrwxr-x 1 jmariyappan jmariyappan    0 Dec 12 16:04 fifoM
+prwxrwxr-x 1 jmariyappan jmariyappan    0 Dec 12 16:04 fifoN
+-rw-rw-r-- 1 jmariyappan jmariyappan  608 Dec 12 14:09 IPC_asi1.c
+-rw-rw-r-- 1 jmariyappan jmariyappan  775 Dec 12 16:01 IPC_asi2.c
+-rw-rw-r-- 1 jmariyappan jmariyappan  562 Dec 12 16:40 ls.out
+prw-rw-r-- 1 jmariyappan jmariyappan    0 Dec 12 16:17 pipe
+-rw-rw-r-- 1 jmariyappan jmariyappan    1 Dec 12 16:29 pipe1
